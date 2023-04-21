@@ -8,6 +8,21 @@
     <body>
         <h1>Contactos</h1>
          <%@include file="menu.jsp" %>
+         <form action="" method="post">
+             <label>Nombre</label>
+             <input type="text" name="nombre">
+             <br>
+             <label>Referencia</label>
+             <input type="text" name="referencia">
+             <br>
+             <label>Mensaje</label>
+             <textarea name="mensaje"></textarea>
+             <br>
+             <input type="submit">
+             <br>
+             
+             
+         </form>
         <p>una lsta larga de contacotos que deberian de haber en la agina</p>
         
         <p>otra losta mas pequel que debekria de haber e esta pagina </p>
