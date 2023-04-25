@@ -1,0 +1,4 @@
+# proyecto1
+demostración de uso de GIT
+
+EL PROYECT ESTA SIENDO DESARROLLADO USANDO EL JDK 11
