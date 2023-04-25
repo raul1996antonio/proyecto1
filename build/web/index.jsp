@@ -10,6 +10,11 @@
     <body>
         <h1>Pagina Principal</h1><!-- comment -->
         <%@include file="menu.jsp" %>
+        <h1>Slider 1</h1>
+        <h2>Slider 2</h2>
+        <h3>Slider 3</h3>
+        <hr>
+        <h1>Servicios</h1>
 
     </body>
 </html>
